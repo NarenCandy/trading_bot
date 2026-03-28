@@ -1,0 +1,18 @@
+[2026-03-28 17:29:53,919] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:29:54,162] INFO - Response 200: {"orderId":13002018227,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"jgVSyisLvyEiVOhA2ZKEBS","price":"0.00","avgPrice":"0.00","origQty":"0.002","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:30:09,224] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:30:09,402] INFO - Response 200: {"orderId":13002020833,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"P5BT3Z1o54P71ClWHMsbkq","price":"0.00","avgPrice":"0.00","origQty":"0.002","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:30:57,767] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:30:57,934] INFO - Response 200: {"orderId":13002021887,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"4aYUWiUZWRgZWmfsz9RgI1","price":"0.00","avgPrice":"0.00","origQty":"0.005","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:31:17,998] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:31:18,447] INFO - Response 200: {"orderId":13002022562,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"Zny0Gs9CpyIFLsLy0Rlt8m","price":"0.00","avgPrice":"0.00","origQty":"0.005","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:31:53,517] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'price', 'timeInForce', 'timestamp', 'signature']
+[2026-03-28 17:31:53,867] INFO - Response 200: {"orderId":13002023189,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"I1wxE1SjWJcciXVohsSngu","price":"60000.00","avgPrice":"0.00","origQty":"0.005","executedQty":"0.000","cumQty":"0.000","cumQuot
+[2026-03-28 17:32:31,980] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'price', 'timeInForce', 'timestamp', 'signature']
+[2026-03-28 17:32:32,250] ERROR - Binance error 400: {"code":-4164,"msg":"Order's notional must be no smaller than 100 (unless you choose reduce only)."}
+[2026-03-28 17:33:59,131] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:33:59,491] INFO - Response 200: {"orderId":13002026053,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"v2Gze704IXMoUehah8mtaC","price":"0.00","avgPrice":"0.00","origQty":"0.003","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:34:04,757] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:34:04,927] INFO - Response 200: {"orderId":13002026182,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"JxtoKCq8fLbxm1R6sQm1BK","price":"0.00","avgPrice":"0.00","origQty":"0.003","executedQty":"0.000","cumQty":"0.000","cumQuote":"
+[2026-03-28 17:34:17,413] INFO - Sending POST to /fapi/v1/order | params: ['symbol', 'side', 'type', 'quantity', 'timestamp', 'signature']
+[2026-03-28 17:34:17,861] INFO - Response 200: {"orderId":13002026796,"symbol":"BTCUSDT","status":"NEW","clientOrderId":"UlIrQupId2avXVXLHSFvoj","price":"0.00","avgPrice":"0.00","origQty":"0.008","executedQty":"0.000","cumQty":"0.000","cumQuote":"
